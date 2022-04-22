@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alfonsogomez28
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Cybersecurity
 
 <!---
 alfonsogomez28/alfonsogomez28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
